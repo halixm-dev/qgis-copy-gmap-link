@@ -1,0 +1,16 @@
+[general]
+name=Copy Google Maps Link
+qgisMinimumVersion=3.0
+description=Right-click on the map canvas to copy a Google Maps link for the clicked location.
+version=0.1
+author=Aldiansyah Ilhamudin
+email=aldiansyah.ilhamudin@gmail.com
+about=This plugin adds an option to the map canvas context menu to copy a Google Maps link of the clicked point.
+tracker=
+repository=
+tags=map, google maps, context menu, coordinates, link
+category=Map
+icon=icon.png
+
+[experimental]
+experimental=False
